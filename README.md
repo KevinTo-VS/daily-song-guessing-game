@@ -1,6 +1,7 @@
 # Daily Song Guessing Game
 
 # Requirements
+
 Operating System: macOS 15+ / Windows 10+
 Python Version: 3.10.6+ 
 Dependencies: FastAPI, Uvicorn, Requests
