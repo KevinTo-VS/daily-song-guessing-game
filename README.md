@@ -7,7 +7,7 @@
 - Python Version: 3.10.6+
   
 Dependencies: 
--FastAPI
+- FastAPI
 - Uvicorn
 - Requests
 
