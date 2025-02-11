@@ -1,11 +1,11 @@
 # Daily Song Guessing Game
 
-#Requirements
+# Requirements
 Operating System: macOS 15+ / Windows 10+
 Python Version: 3.10.6+ 
 Dependencies: FastAPI, Uvicorn, Requests
 
-#Installation and Running Project:
+# Installation and Running Project:
 
 1. Clone the Repository
 - git clone https://github.com/KevinTo-VS/daily-song-guessing-game.git
