@@ -2,7 +2,7 @@
 
 # Requirements
 
-- Operating System:
+Operating System:
 - macOS 15+ / Windows 10+
 - Python Version: 3.10.6+
   
