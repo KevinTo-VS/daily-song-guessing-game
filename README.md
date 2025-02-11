@@ -1,1 +1,1 @@
-# daily-song-guessing-game
+# Daily Song Guessing Game
