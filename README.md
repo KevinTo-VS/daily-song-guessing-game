@@ -2,7 +2,7 @@
 
 # Requirements
 
-- **Operating System:
+- Operating System:
 - macOS 15+ / Windows 10+
 - Python Version: 3.10.6+
   
@@ -27,3 +27,6 @@ Dependencies:
 
 5. Run the FastAPI server using the following command
 - uvicorn backend.main:app --reload
+
+6. Test the API
+- Open browser and go to http://127.0.0.1:8000/random-song
